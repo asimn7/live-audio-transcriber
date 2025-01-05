@@ -27,4 +27,3 @@ def record_audio(output_filename="live_audio.wav", record_seconds=10, rate=44100
     wf.setframerate(rate)
     wf.writeframes(b''.join(frames))
     wf.close()
-
