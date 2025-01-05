@@ -1,0 +1,8 @@
+openai-whisper
+numpy
+torch
+ffmpeg
+pyaudio
+pydub
+noisereduce
+scipy
